@@ -1,0 +1,6 @@
+{
+  "name": "Non Core Board Printer",
+  "description": "Local-first retail promotional price board generator and pixel-accurate A4 print studio from Excel stock reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
